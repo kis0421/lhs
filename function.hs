@@ -9,3 +9,6 @@ haha five = 1 + five
 
 numberList = [1..5]
 doubleNumbers x = [x*2 | x <- x]
+
+(+) 1 1 
+(+(+) 1 1)2
