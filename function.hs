@@ -6,3 +6,6 @@ addBonus number = number + bonus
 
 five = 5
 haha five = 1 + five
+
+numberList = [1..5]
+doubleNumbers x = [x*2 | x <- x]
