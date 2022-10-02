@@ -3,3 +3,6 @@ add3WithAdd5 fn n = n + fn n -- add3WithAdd5 add3 1 => 5
 
 addBonus number = number + bonus
     where bonus = 3
+
+five = 5
+haha five = 1 + five
