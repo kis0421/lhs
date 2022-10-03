@@ -14,5 +14,5 @@ curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh
 
 ```
 https://www.tutorialspoint.com/haskell/index.htm
-https://wikidocs.net/1605
+https://wikidocs.net/1608
 ```
